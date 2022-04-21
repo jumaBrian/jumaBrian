@@ -8,7 +8,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumaBrian&theme=radical" alt="my streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jumaBrian&theme=radical" alt="my streak" /></p>
 <!--  
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jumaBrian&show_icons=true&theme=radical&count_private=true" />
 
